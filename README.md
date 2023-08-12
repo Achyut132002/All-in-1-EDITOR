@@ -7,4 +7,4 @@
 ## 3. File Compressor
 ## 4. Small snake game
 
-## deployed on :# [Visit our website](https://all-in-1-editor.netlify.app/)
+## deployed on : [Visit our website](https://all-in-1-editor.netlify.app/)
